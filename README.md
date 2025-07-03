@@ -2,5 +2,5 @@
 ![](https://img.shields.io/badge/Tool_Used-Tkinter-gold.svg)
 ![](https://img.shields.io/badge/Game-Tic_Tac_Toe-yellow.svg)
 ![](https://img.shields.io/badge/Mode-AI-orange.svg)
-![](https://img.shields.io/badge/Python_Version-3.7-brown.svg)
+![](https://img.shields.io/badge/Python_Version-3.10-brown.svg)
 ![](https://img.shields.io/badge/Status-Complete-green.svg)
