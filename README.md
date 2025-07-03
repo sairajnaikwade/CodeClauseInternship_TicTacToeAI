@@ -57,6 +57,6 @@
 
 ---
 
-> 💡 *Built with ❤️ by Sairaj Naikwade as part of the CodeClause Internship Project.*
+> 💡 *Built with ❤️ by Sairaj Naikwade.*
 
 ---
